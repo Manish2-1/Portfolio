@@ -34,6 +34,8 @@ export const Projects = () => {
               <div className="flex justify-between items-center">
                 <a
                   href="https://frontend-dlbf.onrender.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
